@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>d.1c5d70ee-cb5a-11ed-a3d2-9cfce869da1a.jpg</filename>
+	<path>C:\Users\jmcoa\Documents\UNG Spring 2023\Senior Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\d.1c5d70ee-cb5a-11ed-a3d2-9cfce869da1a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>d</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>115</ymin>
+			<xmax>283</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
